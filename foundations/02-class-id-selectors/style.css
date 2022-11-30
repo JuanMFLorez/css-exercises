@@ -11,3 +11,9 @@
 .txt-size{
     font-size: 24px;
 }
+
+#second-id{
+    background-color: rgb(127, 255, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
